@@ -23,7 +23,7 @@
     "bundle": "node bundle.js"
   },
   "type": "module",
-  "version": "0.0.1-0",
+  "version": "0.0.1-1",
   "devDependencies": {
     "@virtualpatterns/mablung-source-map-support": "git+https://github.com/virtualpatterns/mablung-source-map-support.git",
     "esbuild": "^0.7.19",
